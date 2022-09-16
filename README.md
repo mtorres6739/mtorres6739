@@ -1,16 +1,17 @@
+![Mathew Github Banner](https://raw.githubusercontent.com/mtorres6739/main/mathew-github-banner3.png)
+
 ### Hi there 👋
 
-<!--
-**mtorres6739/mtorres6739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Mathew Torres and I am a Software Developer. I have a passion for helping others, and a strong desire to build things that help improve the world. I help turn visions into a reality. I want to work with business who want to make the world a better place by building cool tech. I want to be the person who translates their vision into a tangible and functional application. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+- 🔭 I’m currently working on HTML, CSS, JavaScript & MERN stack
+- 🌱 I’m currently learning as much as I can!
+- 👯 I’m always looking to collaborate with others.
+- 🤔 I’m looking for a mentor to help me grow.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Let's connect: [LinkedIn] (https://www.linkedin.com/in/mathewtorres/)
+- ⚡ Fun fact: I'm a musician and an actor.
