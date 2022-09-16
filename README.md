@@ -12,6 +12,5 @@ My name is Mathew Torres and I am a Software Developer. I have a passion for hel
 - 🌱 I’m currently learning as much as I can!
 - 👯 I’m always looking to collaborate with others.
 - 🤔 I’m looking for a mentor to help me grow.
-- 💬 Ask me about ...
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/mathewtorres/)
 - ⚡ Fun fact: I'm a musician and an actor.
