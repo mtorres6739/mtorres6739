@@ -1,4 +1,4 @@
-![Mathew Github Banner](https://github.com/mtorres6739/mtorres6739/blob/main/mathew-github-banner3.png?raw=true)
+![Mathew Github Banner](https://github.com/mtorres6739/mtorres6739/blob/main/mathew-github-banner3-1280x500.png?raw=true)
 
 ### Hi there 👋
 
