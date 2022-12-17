@@ -45,9 +45,6 @@ My name is Mathew Torres and I am a Software Developer. I have a passion for hel
 
 
 <br><br>
-### 😂 Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mtorres6739&icon=0&color=3)](https://visitcount.itsvg.in)
